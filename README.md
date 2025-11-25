@@ -10,7 +10,7 @@ The project follows Agile methodologies, focusing on iterative development, user
 - **Iterations:** 3 sprints (2 weeks each)
 
 ## Tech Stack
-- **Frontend:** Django Templates + Bootstrap 5  
+- **Frontend:** Flask Templates
 - **Backend:** Django (Python)  
 - **Database:** PostgreSQL  
 - **Payments:** MercadoPago SDK (Python)  
